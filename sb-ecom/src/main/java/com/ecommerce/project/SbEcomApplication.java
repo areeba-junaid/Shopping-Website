@@ -2,7 +2,7 @@ package com.ecommerce.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//Spring boot msater
+//Spring boot Areeba
 @SpringBootApplication
 public class SbEcomApplication {
 
