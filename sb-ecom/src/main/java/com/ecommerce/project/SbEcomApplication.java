@@ -2,7 +2,7 @@ package com.ecommerce.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//Spring boot Areeba
+//Spring boot Urooj
 @SpringBootApplication
 public class SbEcomApplication {
 
